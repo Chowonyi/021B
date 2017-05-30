@@ -1,5 +1,4 @@
 
-## Team Name: 021B
 # Team Name: 021B
 ### Jaeyeong Yoo, Hanyoung Lee, Wonyo Cho
 
@@ -7,7 +6,8 @@ project name: 한글 맞춤법 검사
 --------------------------------------------
 
 <05.16>
-##이번에 한 일
+
+## 이번에 한 일
 
 clone and download ZIP file.
 we download the Python compiler because the project is based on Python.
@@ -17,7 +17,9 @@ we see the code – the commends are written in Korean. It makes us more comfort
 *코드를 돌리지 못했고 어떻게 해야할 지 모르겠다. 돌아가지 않는 원인을 찾고 코드를 돌려야한다.
 
 -----------------------------------------
-##앞으로 할 것
+
+
+## 앞으로 할 것
 
 1. 프로그램 실행
 2. 에러 찾아보기
@@ -26,7 +28,7 @@ we see the code – the commends are written in Korean. It makes us more comfort
 5. 위의 단계 반복
 
 ----------------------------------------
-##각자 한 일
+## 각자 한 일
 
 Basically all members implement the program. 
 Cho wonyi – Implement the program in Ubuntu 
