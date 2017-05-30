@@ -1,11 +1,15 @@
 
-# Team Name: 021B
+### Team Name: 021B
 ### Jaeyeong Yoo, Hanyoung Lee, Wonyo Cho
+
 
 project name: 한글 맞춤법 검사
 --------------------------------------------
 
-<05.16>
+
+
+
+# <05.16>
 
 ## 이번에 한 일
 
