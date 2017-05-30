@@ -39,3 +39,9 @@ Cho wonyi – Implement the program in Ubuntu
 Yoo jaeyeung – Wiki, write the daily action 
 Lee hanyoung – Manage all the project
 
+
+
+
+# <05.30>
+
+1.  리눅스 환경에서 파이선 파일을 다운받아 실행을 시켜보려 했으나, 돌아가지 않았고 조교님께 여쭤본 후 파일 자체가 이상하다고 여겨 pull request를 보냈다.
