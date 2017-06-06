@@ -36,7 +36,7 @@ we see the code – the commends are written in Korean. It makes us more comfort
 Basically all members implement the program.
 -> 프로그램 실행이 안돼서 단어 추가를 건의하는 방향으로 수정.
 
-Cho wonyi – Implement the program in Ubuntu. Write issue and Wiki. 
+Cho wonyi – Implement the program in Ubuntu. Write issue and Wiki. Write README.
 
 Yoo jaeyeung – Wiki, write the daily action 
 
